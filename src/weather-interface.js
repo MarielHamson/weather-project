@@ -4,7 +4,6 @@ import './styles.css';
 import $ from 'jquery';
 import { WeatherService } from './../src/weather-service.js';
 
-$(document).ready(function() {
   $(document).ready(function() {
 
     $('#weatherLocation').click(function() {
@@ -28,4 +27,3 @@ $(document).ready(function() {
       }
     });
   });
-});
