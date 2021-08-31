@@ -1,4 +1,4 @@
-# _{Application Name}_
+# _Weather Project_
 
 #### _{Brief description of application}, {Date of current version}_
 
